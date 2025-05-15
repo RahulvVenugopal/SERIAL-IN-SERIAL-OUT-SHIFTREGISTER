@@ -1,7 +1,7 @@
 
 ### Name: Rahul V
 ### Register No:212223040163
-## SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+## EXP-NO:5 SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
